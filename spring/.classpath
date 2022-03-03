@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="kr/hs/study/SpringClass/spring/JavaBasic/src/" kind="src" path="JavaBasic/src"/>
+	<classpathentry kind="src" path="JavaBasic/src/kr/hs/study/SpringClass/spring/JavaBasic/src"/>
+	<classpathentry kind="src" path="SpringBasic/src/main/java"/>
+	<classpathentry kind="output" path="JavaBasic/bin"/>
+</classpath>
