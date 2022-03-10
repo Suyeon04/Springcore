@@ -11,5 +11,6 @@
 	                    http://www.springframework.org/schema/aop/spring-aop.xsd">
 	                    
 	 <!-- 객체 생성 -->                   
-	<bean id = "test1" class = "kr.hs.study.bean.TextBean"/>
+	<bean id = "t1" class = "kr.hs.study.beans.HelloWorld"/>
+	
 </beans>
